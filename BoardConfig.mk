@@ -27,7 +27,6 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
 TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
 
 TARGET_OTA_ASSERT_DEVICE := OnePlus6T
-BOARD_PREBUILT_VENDORIMAGE := vendor/image/oneplus/oneplus6t/vendor.img
 
 DEVICE_MATRIX_FILE   := $(DEVICE_PATH)/compatibility_matrix.xml
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += $(DEVICE_PATH)/vendor_framework_compatibility_matrix.xml
