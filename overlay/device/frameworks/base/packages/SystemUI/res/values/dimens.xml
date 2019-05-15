@@ -33,5 +33,9 @@
    <dimen name="trust_circle_inner_radius_visible_max">20dp</dimen>
    <!-- TrustDrawable: Inner radius at the end of the exit animation -->
    <dimen name="trust_circle_inner_radius_exit">32dp</dimen>
+
+   <!-- Screen corners radius -->
+   <dimen name="rounded_corner_radius_top">48.0px</dimen>
+   <dimen name="rounded_corner_radius_bottom">54.0px</dimen>
 </resources>
 
