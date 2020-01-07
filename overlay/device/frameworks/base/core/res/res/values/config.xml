@@ -66,4 +66,11 @@
 
     <!-- Show a custom view for FOD -->
     <bool name="config_usesFOD">true</bool>
+
+    <!-- Default radius of the software rounded corners. -->
+    <dimen name="rounded_corner_radius">45px</dimen>
+
+    <!-- Radius of the software rounded corners at the bottom of the display
+         in its natural orientation. If zero, the value of rounded_corner_radius is used. -->
+    <dimen name="rounded_corner_radius_bottom">100px</dimen>
 </resources>
